@@ -5,3 +5,7 @@
 *.xml
 *.class
 *.xml
+.idea/.name
+*.xml
+*.kotlin_module
+*.xml
